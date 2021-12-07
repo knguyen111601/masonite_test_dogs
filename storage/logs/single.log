@@ -1,0 +1,282 @@
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:37:39 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:37:57 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:38:50 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:39:42 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:44:39 - ERROR - SyntaxError in 0 on line 0
+2021-12-07 17:44:39 - ERROR - "GET /dogs HTTP/1.1" 500 1039336
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:46:46 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:46:46 - INFO - "GET /dogs HTTP/1.1" 200 2
+2021-12-07 17:46:46 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 17:47:23 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-07 17:47:23 - ERROR - "POST /dogs HTTP/1.1" 500 966794
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 17:47:42 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 17:47:42 - INFO - "POST /dogs HTTP/1.1" 200 123
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 125
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 125
+2021-12-07 17:47:42 - INFO - "POST /dogs HTTP/1.1" 200 119
+2021-12-07 17:47:42 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 246
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 246
+2021-12-07 17:47:42 - INFO - "POST /dogs HTTP/1.1" 200 121
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 369
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 2
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 2
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 2
+2021-12-07 17:47:42 - INFO - "POST /owners HTTP/1.1" 200 125
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 127
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 369
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 127
+2021-12-07 17:47:42 - INFO - "POST /owners HTTP/1.1" 200 123
+2021-12-07 17:47:42 - INFO - "GET /owners HTTP/1.1" 200 252
+2021-12-07 17:47:42 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 17:47:42 - INFO - "GET /dogs HTTP/1.1" 200 369
+2021-12-07 17:47:42 - INFO - "GET /dogs/1 HTTP/1.1" 200 123
+2021-12-07 17:59:55 - ERROR - NameError in /Users/kennynguyen/Development/seir_penguin/projects/project4/test3/app/http/controllers/OwnerController.py on line 20
+2021-12-07 17:59:55 - ERROR - "GET /owners/1 HTTP/1.1" 500 974186
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:00:07 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:00:07 - INFO - "GET /owners/1 HTTP/1.1" 200 127
+2021-12-07 18:00:07 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:00:31 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:00:32 - ERROR - AttributeError in /Users/kennynguyen/Development/seir_penguin/projects/project4/test3/app/http/controllers/OwnerController.py on line 20
+2021-12-07 18:00:32 - ERROR - "GET /owners/1 HTTP/1.1" 500 1047871
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:01:23 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:01:24 - ERROR - AttributeError in 0 on line 0
+2021-12-07 18:01:24 - ERROR - "GET /owners/1 HTTP/1.1" 500 1050133
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:03:20 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:03:20 - INFO - "GET /owners/1 HTTP/1.1" 200 125
+2021-12-07 18:03:20 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:06:07 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:07:20 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:12:19 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:13:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:14:25 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:16:46 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:17:03 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:17:10 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:19:38 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:19:57 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:21:07 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:23:11 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:23:25 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:23:41 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:23:42 - ERROR - ResponseError in 0 on line 0
+2021-12-07 18:24:38 - ERROR - QueryException in 0 on line 0
+2021-12-07 18:24:38 - ERROR - "POST /dogs HTTP/1.1" 500 982051
+2021-12-07 18:25:04 - ERROR - QueryException in 0 on line 0
+2021-12-07 18:25:04 - ERROR - "POST /dogs HTTP/1.1" 500 982060
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:26:58 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:27:02 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:27:19 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:27:34 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:27:43 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:27:43 - INFO - "POST /dogs HTTP/1.1" 200 123
+2021-12-07 18:27:43 - INFO - "GET /dogs HTTP/1.1" 200 143
+2021-12-07 18:27:43 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 18:27:43 - INFO - "POST /dogs HTTP/1.1" 200 123
+2021-12-07 18:27:43 - INFO - "GET /dogs HTTP/1.1" 200 286
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:34:32 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:34:43 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-07 18:34:55 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-07 18:34:55 - INFO - "GET /dogs HTTP/1.1" 200 2
+2021-12-07 18:34:55 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-07 18:35:02 - ERROR - QueryException in 0 on line 0
+2021-12-07 18:35:02 - ERROR - "POST /dogs HTTP/1.1" 500 981930
